@@ -50,7 +50,7 @@ We **do not** sell, rent, or trade your personal information. Third parties are 
 
 ## 7. Children's Privacy
 
-This App is intended for users aged 4 and above. We do not knowingly collect personal information from children under 13. If you become aware that a child under 13 has provided us with personal information without parental consent, please contact us using the information below; we will delete the information promptly.
+This App is rated **4+** on the App Store and is suitable for all ages. We do not knowingly collect personal information from children under 13, and we collect no children's data for advertising or tracking purposes. If you become aware that a child under 13 has provided us with personal information without parental consent, please contact us using the information below; we will delete the information promptly.
 
 ## 8. Third-Party Tracking and Advertising
 
