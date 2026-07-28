@@ -28,33 +28,33 @@ Please read these Terms in full before using the App. **By downloading, installi
 
 2.4 We operate no proprietary server-side account system, and therefore **cannot** recover, modify, or delete a Game Center account on your behalf.
 
-## 3. Paid Content: Subscriptions and In-App Purchases
+## 3. Paid Content: In-App Purchases and Subscriptions
 
-The App is free to download and offers optional in-app purchases and subscriptions. All transactions are completed through the Apple App Store; we never handle your payment details directly.
+The App is free to download. We may offer optional in-app purchases and subscriptions; **the items actually available are those shown in the App's store page and in the App Store at the time you use it**, and each clause of this Section applies only where the corresponding feature is offered. All transactions are completed through the Apple App Store; we never handle your payment details directly.
 
-### 3.1 Auto-Renewable Subscriptions
+### 3.1 Auto-Renewable Subscriptions (where offered)
 
-3.1.1 The App offers auto-renewable subscriptions (such as quarterly and annual plans). **The name, duration, price, and benefits of each subscription are those shown in the App Store and in the App's store page at the time of purchase**; prices may differ by country or region.
+3.1.1 Where the App offers auto-renewable subscriptions (for example quarterly or annual plans), **their name, duration, price, and benefits are those shown in the App Store and in the App's store page at the time of purchase**; prices may differ by country or region. This clause does not apply to a version that offers no subscription.
 
 3.1.2 **Auto-renewal.** Subscriptions renew automatically at the end of each period unless you turn off auto-renewal **at least 24 hours before** the current period ends. Apple charges your Apple ID account **within 24 hours prior to** the end of the current period at the then-current renewal price.
 
 3.1.3 **Managing and cancelling.** You can view, manage, or cancel your subscription at any time under iOS Settings → your Apple ID → Subscriptions. **Cancellation takes effect at the end of the current billing period**; periods already elapsed are not refunded. Deleting the App does **not** cancel a subscription.
 
-3.1.4 **Free trials.** Where we offer a free trial (for example, 7 days), the trial **converts automatically into a paid subscription** and billing begins at the end of the trial unless you cancel beforehand. If you purchase another subscription in the same subscription group during a trial, any unused portion of the trial is forfeited in accordance with Apple's rules. A free trial is generally available only once per user (per Apple ID), as determined by Apple.
+3.1.4 **Free trials.** Where we offer a free trial with a subscription (for example, 7 days), the trial **converts automatically into a paid subscription** and billing begins at the end of the trial unless you cancel beforehand. If you purchase another subscription in the same subscription group during a trial, any unused portion of the trial is forfeited in accordance with Apple's rules. A free trial is generally available only once per user (per Apple ID), as determined by Apple.
 
-### 3.2 One-Time Purchases
+### 3.2 One-Time Purchases (where offered)
 
-3.2.1 The App offers one-time purchases such as a permanent unlock, individual game-mode unlocks, mode bundles, and consumable items.
+3.2.1 The App may offer one-time purchases such as a permanent unlock, individual game-mode unlocks, and mode bundles; where consumable items are offered, clause 3.2.3 applies.
 
 3.2.2 A **permanent unlock** unlocks the scope of content stated at the time of purchase, for the lifetime of the App. We state that scope in the product description. If content we release in the future falls outside that scope, we will say so in the product description.
 
-3.2.3 Consumable items are consumed on use; they cannot be reused or restored.
+3.2.3 Where the App offers consumable items, they are consumed on use and cannot be reused or restored.
 
 ### 3.3 Restoring Purchases
 
 3.3.1 Non-consumable purchases (subscriptions, permanent unlock, mode unlocks) are tied to your Apple ID. After changing devices or reinstalling, you can restore them using "Restore Purchases" on the App's store page.
 
-3.3.2 Consumable items **cannot** be restored.
+3.3.2 Consumable items, if any, **cannot** be restored.
 
 ### 3.4 Refunds
 
