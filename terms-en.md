@@ -1,10 +1,10 @@
 # ShadowFlip: Xiangqi — Terms of Use
 
-[中文版 →](./terms) ｜ [Privacy Policy →](./en)
+[简体中文](./terms) ｜ [繁體中文](./terms-tc) ｜ [日本語](./terms-ja) ｜ **[Privacy Policy →](./en)**
 
 **Last updated: July 28, 2026**
 
-These Terms of Use ("Terms") form an agreement between you and Dengxian Chen ("we", "us", "our"), the developer of ShadowFlip: Xiangqi (the "App"), governing your use of the App.
+These Terms of Use ("Terms") form an agreement between you and **Dengxian Chen** ("we", "us", "our"), the developer of ShadowFlip: Xiangqi (the "App"), governing your use of the App.
 
 Please read these Terms in full before using the App. **By downloading, installing, launching, or using the App, you acknowledge that you have read, understood, and agree to be bound by all of these Terms.** If you do not agree, please stop using the App and delete it.
 
@@ -20,13 +20,15 @@ Please read these Terms in full before using the App. **By downloading, installi
 
 ## 2. Accounts and Game Center
 
-2.1 **All single-player features work without any account registration.** We do not ask you to submit your name, phone number, government ID, or similar personal data.
+2.1 The App offers a **guest entry**, and **all single-player features work without signing in**. We do not ask you to submit your name, phone number, government ID, or similar personal data.
 
-2.2 Online matches, global leaderboards, and achievement syncing rely on **Apple Game Center**. To use these features you must sign in to your Apple ID and enable Game Center, at which point your public Game Center nickname becomes visible to other players in your matches.
+2.2 To use online matches, global leaderboards, or achievement syncing, you must sign in using either of the following:
+- **Sign in with Apple**: we receive only the app-specific anonymous identifier provided by Apple, used to recognise your signed-in state;
+- **Game Center**: required for matchmaking, leaderboards, and achievements; your public Game Center nickname then becomes visible to other players in your matches.
 
-2.3 Game Center accounts are provided and administered by Apple and are governed by Apple's own terms; they are outside the scope of these Terms. You can manage or sign out at any time under Settings → Game Center.
+2.3 Both Sign in with Apple and Game Center accounts are provided and administered by Apple and governed by Apple's own terms; they are outside the scope of these Terms. You can review, manage, or revoke them at any time in Settings.
 
-2.4 We operate no proprietary server-side account system, and therefore **cannot** recover, modify, or delete a Game Center account on your behalf.
+2.4 We operate no proprietary server-side account system, and therefore **cannot** recover, modify, or delete an Apple ID or Game Center account on your behalf.
 
 ## 3. Paid Content: In-App Purchases and Subscriptions
 
@@ -160,7 +162,7 @@ The following terms are included as required by Apple:
 For questions about these Terms, please contact:
 
 - Email: ShadowFlipService@163.com
-- Developer: Dengxian Chen (陈登贤)
+- Developer: Dengxian Chen
 
 ---
 
