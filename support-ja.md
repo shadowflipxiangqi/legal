@@ -1,5 +1,5 @@
 ---
-title: サポート — 暗翻象棋
+title: サポート — ShadowFlip: シャンチー
 ---
 
 [简体中文](/legal/support) · [繁體中文](/legal/support-tc) · [English](/legal/support-en) · [日本語](/legal/support-ja)
