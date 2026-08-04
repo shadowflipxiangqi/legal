@@ -1,5 +1,5 @@
 ---
-title: Support — ShadowFlip: Xiangqi
+title: "Support — ShadowFlip: Xiangqi"
 ---
 
 [简体中文](/legal/support) · [繁體中文](/legal/support-tc) · [English](/legal/support-en) · [日本語](/legal/support-ja)
