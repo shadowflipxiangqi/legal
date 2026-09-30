@@ -22,7 +22,7 @@ This Privacy Policy applies to all users who download and use the ShadowFlip: Xi
 
 - Apple iCloud (key-value storage): When you are signed in to iCloud on your device and iCloud Drive is turned on, the App syncs your game progress to **your own iCloud account** so that it stays consistent across your devices and can be restored after reinstalling. The synced data includes: rank and online rating, match statistics, achievement progress, inventory and appearance settings, task and check-in records, daily limits, reward-claimed flags, and the nickname, avatar thumbnail and join date mentioned above. This data is stored in your own iCloud and managed by Apple; we operate no servers of our own and cannot access, read, or export it. If you are not signed in to iCloud or have turned iCloud Drive off, your progress is stored on the device only.
 - Apple Game Center: When you use online matchmaking, achievements, or leaderboards, we use Apple’s GameKit framework to access your Game Center display name (publicly visible) and player ID (anonymous identifier) to enable matchmaking, record achievement progress, and submit leaderboard scores.
-- Apple StoreKit: When you make in-app purchases or subscribe, Apple processes the payment; we only receive the purchase result (product ID, purchase status, subscription expiry) to unlock corresponding features.
+- Apple StoreKit: When you make in-app purchases, Apple processes the payment; we only receive the purchase result (product ID, purchase status) to unlock corresponding features.
 
 ### 2.3 Automatically collected information
 
@@ -36,7 +36,7 @@ We use the collected information only to:
 - Enable online matchmaking
 - Record and display Game Center achievements and leaderboards
 - Sync your game progress across your own devices and restore it after reinstalling (through your iCloud)
-- Complete in-app purchases and subscriptions
+- Complete in-app purchases 
 - Improve app stability and performance (crash analysis)
 
 We do not use any of this information for advertising, user profiling, or cross-app tracking.
