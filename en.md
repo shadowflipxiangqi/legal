@@ -2,9 +2,9 @@
 
 [简体中文](./) ｜ [繁體中文](./tc) ｜ [日本語](./ja) ｜ **[Terms of Use →](./terms-en)**
 
-**Last updated: July 28, 2026**
+Last updated: September 30, 2026
 
-Thank you for using ShadowFlip: Xiangqi ("the App", "we", "our app"). This Privacy Policy describes how we collect, use, share, and protect your information.
+Thank you for using ShadowFlip: Xiangqi (“the App”, “we”, “our app”). This Privacy Policy describes how we collect, use, share, and protect your information.
 
 ## 1. Scope
 
@@ -13,55 +13,66 @@ This Privacy Policy applies to all users who download and use the ShadowFlip: Xi
 ## 2. Information We Collect
 
 ### 2.1 Information you provide
-- If you choose **Sign in with Apple**, we receive an **app-specific user identifier** provided by Apple (an anonymous string, not your Apple ID). It is stored in your device's Keychain and used to recognise your signed-in state within the App.
+
+- If you choose Sign in with Apple, we receive an app-specific user identifier provided by Apple (an anonymous string, not your Apple ID). It is stored in your device’s Keychain and used to recognise your signed-in state within the App.
+- Profile (optional): You can set a nickname and an avatar in the App. They are used only for display inside the App and are synced with your game progress to your own iCloud (see 2.2); only a compressed thumbnail of the avatar is synced.
 - Beyond that, the App does not ask you for your name, phone number, email address, government ID, or any other personal data.
 
 ### 2.2 Information collected via third-party platforms
-- **Apple Game Center**: When you use online matchmaking, achievements, or leaderboards, we use Apple's GameKit framework to access your Game Center display name (publicly visible) and player ID (anonymous identifier) to enable matchmaking, record achievement progress, and submit leaderboard scores.
-- **Apple StoreKit**: When you make in-app purchases or subscribe, Apple processes the payment; we only receive the purchase result (product ID, purchase status, subscription expiry) to unlock corresponding features.
+
+- Apple iCloud (key-value storage): When you are signed in to iCloud on your device and iCloud Drive is turned on, the App syncs your game progress to **your own iCloud account** so that it stays consistent across your devices and can be restored after reinstalling. The synced data includes: rank and online rating, match statistics, achievement progress, inventory and appearance settings, task and check-in records, daily limits, reward-claimed flags, and the nickname, avatar thumbnail and join date mentioned above. This data is stored in your own iCloud and managed by Apple; we operate no servers of our own and cannot access, read, or export it. If you are not signed in to iCloud or have turned iCloud Drive off, your progress is stored on the device only.
+- Apple Game Center: When you use online matchmaking, achievements, or leaderboards, we use Apple’s GameKit framework to access your Game Center display name (publicly visible) and player ID (anonymous identifier) to enable matchmaking, record achievement progress, and submit leaderboard scores.
+- Apple StoreKit: When you make in-app purchases or subscribe, Apple processes the payment; we only receive the purchase result (product ID, purchase status, subscription expiry) to unlock corresponding features.
 
 ### 2.3 Automatically collected information
-- **Crash and diagnostic data**: Collected via Apple's default crash reporting (only when you opt in under Settings → Privacy → Analytics).
+
+- Crash and diagnostic data: Collected via Apple’s default crash reporting (only when you opt in under Settings → Privacy → Analytics).
 
 ## 3. How We Use Information
 
 We use the collected information only to:
+
 - Maintain your signed-in state within the App
 - Enable online matchmaking
 - Record and display Game Center achievements and leaderboards
+- Sync your game progress across your own devices and restore it after reinstalling (through your iCloud)
 - Complete in-app purchases and subscriptions
 - Improve app stability and performance (crash analysis)
 
-We do **not** use any of this information for advertising, user profiling, or cross-app tracking.
+We do not use any of this information for advertising, user profiling, or cross-app tracking.
 
 ## 4. Information Sharing
 
-We **do not** sell, rent, or trade your personal information. Third parties are involved only in the following cases:
-- **Apple Inc.** — The Sign in with Apple identifier, Game Center player information, StoreKit purchase information, and crash reports are processed by Apple's platforms, subject to Apple's Privacy Policy (https://www.apple.com/privacy).
-- **Legal requirements** — We may disclose information when required by law or to protect our legitimate rights.
+We do not sell, rent, or trade your personal information. Third parties are involved only in the following cases:
+
+- Apple Inc. — The Sign in with Apple identifier, Game Center player information, iCloud-synced data, StoreKit purchase information, and crash reports are processed by Apple’s platforms, subject to Apple’s Privacy Policy (https://www.apple.com/privacy).
+- Legal requirements — We may disclose information when required by law or to protect our legitimate rights.
 
 ## 5. Data Retention
 
-- Sign in with Apple identifier: Stored only in your device's Keychain; removed when you sign out or uninstall the App.
-- Game Center information: Managed by Apple. We do not maintain a server-side copy.
-- In-app local data (game progress, settings): Stored only on your device; uninstalling the app deletes it.
-- Purchase records: Retained permanently by Apple (for the "Restore Purchases" feature).
+- Sign in with Apple identifier: Stored only in your device’s Keychain. It is removed when you sign out or use “Delete Account”; **uninstalling the App alone does not remove it**, and your signed-in state may be restored after reinstalling.
+- Game Center information: Managed by Apple. We do not maintain a server-side copy. Achievements and leaderboard scores already submitted to Game Center are kept by Apple and are not withdrawn when you delete your account.
+- In-app local data (game progress, settings): Stored on your device; uninstalling the app deletes this on-device copy.
+- iCloud-synced data: Stored in your own iCloud and **not deleted when you uninstall the App** (so that your progress can be restored after reinstalling); using “Delete Account” removes it as well.
+- Purchase records: Retained permanently by Apple (for the “Restore Purchases” feature).
 
 ## 6. Your Rights
 
-- **Sign out**: You can sign out in the App at any time; the locally stored identifier is cleared with it.
-- **Manage Sign in with Apple**: You can review and revoke this App's access under Settings → your Apple ID → Sign in with Apple.
-- **Manage Game Center**: You can manage your Game Center account and privacy settings under Settings → Game Center.
-- **Withdraw crash data sharing**: You can disable sharing under Settings → Privacy & Security → Analytics & Improvements.
-- **Delete data**: Uninstalling the app deletes all local data on your device.
+- Sign out: You can sign out in the App at any time; the locally stored identifier is cleared with it.
+- Delete account: After signing in with Apple or Game Center, you can go to “Settings → Delete Account” in the App to permanently delete all game data on this device, the Sign in with Apple identifier, and the data synced to your iCloud; progress on your other devices is cleared as well. This cannot be undone.
+- Guest mode: Guests have no account, so “Delete Account” is not shown in Settings. To clear progress made as a guest, sign in with Apple or Game Center first and then use “Delete Account”.
+- Manage Sign in with Apple: You can review and revoke this App’s access under Settings → your Apple ID → Sign in with Apple.
+- Manage Game Center: You can manage your Game Center account and privacy settings under Settings → Game Center.
+- Manage iCloud sync: If you turn iCloud Drive off on your device, the App stops syncing with iCloud.
+- Withdraw crash data sharing: You can disable sharing under Settings → Privacy & Security → Analytics & Improvements.
 
-## 7. Children's Privacy
+## 7. Children’s Privacy
 
-This App is rated **4+** on the App Store and is suitable for all ages. We do not knowingly collect personal information from children under 13, and we collect no children's data for advertising or tracking purposes. If you become aware that a child under 13 has provided us with personal information without parental consent, please contact us using the information below; we will delete the information promptly.
+This App is rated 4+ on the App Store and is suitable for all ages. We do not knowingly collect personal information from children under 13, and we collect no children’s data for advertising or tracking purposes. If you become aware that a child under 13 has provided us with personal information without parental consent, please contact us using the information below; we will delete the information promptly.
 
 ## 8. Third-Party Tracking and Advertising
 
-The App displays **no advertising**, integrates **no third-party tracking, analytics, or advertising SDKs**, and does **not** use App Tracking Transparency (ATT) for tracking purposes.
+The App displays no advertising, integrates no third-party tracking, analytics, or advertising SDKs, and does not use App Tracking Transparency (ATT) for tracking purposes.
 
 ## 9. Changes to This Policy
 
@@ -73,7 +84,5 @@ For questions about this Privacy Policy, please contact:
 
 - Email: ShadowFlipService@163.com
 - Developer: Dengxian Chen
-
----
 
 © 2025-2026 Dengxian Chen. All rights reserved.
