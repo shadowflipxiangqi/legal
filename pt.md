@@ -1,6 +1,6 @@
 # ShadowFlip: Xiangqi — Política de Privacidade
 
-[简体中文](./) ｜ [繁體中文](./tc) ｜ [日本語](./ja) ｜ [English](./en) ｜ [Español](./es) ｜ **[Termos de Uso →](./terms-pt)**
+[简体中文](./) ｜ [繁體中文](./tc) ｜ [日本語](./ja) ｜ [English](./en) ｜ [Español](./es) ｜ [한국어](./ko) ｜ **[Termos de Uso →](./terms-pt)**
 
 Última atualização: 30 de setembro de 2026
 
