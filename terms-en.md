@@ -1,6 +1,6 @@
 # ShadowFlip: Xiangqi — Terms of Use
 
-[简体中文](./terms) ｜ [繁體中文](./terms-tc) ｜ [日本語](./terms-ja) ｜ **[Privacy Policy →](./en)**
+[简体中文](./terms) ｜ [繁體中文](./terms-tc) ｜ [日本語](./terms-ja) ｜ [Español](./terms-es) ｜ [Português](./terms-pt) ｜ **[Privacy Policy →](./en)**
 
 **Last updated: September 30, 2026**
 
