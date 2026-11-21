@@ -1,6 +1,6 @@
 # 暗翻象棋 使用者協議
 
-[简体中文](./terms) ｜ [English](./terms-en) ｜ [日本語](./terms-ja) ｜ [Español](./terms-es) ｜ [Português](./terms-pt) ｜ **[隱私權政策 →](./tc)**
+[简体中文](./terms) ｜ [English](./terms-en) ｜ [日本語](./terms-ja) ｜ [Español](./terms-es) ｜ [Português](./terms-pt) ｜ [한국어](./terms-ko) ｜ **[隱私權政策 →](./tc)**
 
 **最後更新日期：2026 年 9 月 30 日**
 
