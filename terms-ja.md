@@ -1,6 +1,6 @@
 # ShadowFlip: シャンチー 利用規約
 
-[简体中文](./terms) ｜ [繁體中文](./terms-tc) ｜ [English](./terms-en) ｜ **[プライバシーポリシー →](./ja)**
+[简体中文](./terms) ｜ [繁體中文](./terms-tc) ｜ [English](./terms-en) ｜ [Español](./terms-es) ｜ [Português](./terms-pt) ｜ **[プライバシーポリシー →](./ja)**
 
 **最終更新日：2026 年 9 月 30 日**
 
