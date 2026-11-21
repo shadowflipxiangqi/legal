@@ -2,7 +2,7 @@
 title: 技術支援 — 暗翻象棋
 ---
 
-[简体中文](/legal/support) · [繁體中文](/legal/support-tc) · [English](/legal/support-en) · [日本語](/legal/support-ja)
+[简体中文](/legal/support) · [繁體中文](/legal/support-tc) · [English](/legal/support-en) · [日本語](/legal/support-ja) · [Español](/legal/support-es) · [Português](/legal/support-pt)
 
 # 技術支援
 
